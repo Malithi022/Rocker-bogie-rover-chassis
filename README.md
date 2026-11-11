@@ -2,7 +2,7 @@
 
 A 6-wheeled rough-terrain mobile exploration platform featuring an un-sprung rocker-bogie suspension system, top-mounted mechanical differential bar, and independent 4-wheel Ackermann steering. Designed in SolidWorks with analytical validation for motor torque, scrub torque, and power distribution.
 
-![Rover Isometric View](<img width="631" height="577" alt="image" src="https://github.com/user-attachments/assets/03bc22de-b04b-4110-9b13-9e6daf67ec11" />)
+![Rover Isometric View](https://github.com/Malithi022/Rocker-bogie-rover-chassis/blob/main/rover_isometric.png)
 
 ---
 
@@ -25,7 +25,7 @@ A 6-wheeled rough-terrain mobile exploration platform featuring an un-sprung roc
 
 ## ⚙️ Mechanical Architecture
 
-![Suspension Assembly](<img width="652" height="568" alt="image" src="https://github.com/user-attachments/assets/4108129f-b9c3-4db1-8b01-e85530907d97" />)
+![Suspension Assembly](https://github.com/Malithi022/Rocker-bogie-rover-chassis/blob/main/suspension_assembly.png)
 
 ### 1. Rocker-Bogie Suspension Kinematics
 * **Linkage Dimensions:** Rocker length $l_r = 0.340\text{ m}$, Bogie length $l_b = 0.170\text{ m}$ ($l_r = 2 \cdot l_b$)[cite: 14]. Central pivot height $h_w = 0.222\text{ m}$[cite: 14].
@@ -46,7 +46,7 @@ For a design path radius $r_{path} = 1.0\text{ m}$[cite: 17]:
 
 ## ⚡ Powertrain & Electrical Design
 
-![Rover Control Circuit](<img width="940" height="619" alt="image" src="https://github.com/user-attachments/assets/97b8124e-f6e8-4e39-9c3d-a77490d86c2a" />)
+![Rover Control Circuit](https://github.com/Malithi022/Rocker-bogie-rover-chassis/blob/main/circuit_diagram.png)
 
 ### Sizing & Torque Calculations
 * **Drive Motors (6x):**
